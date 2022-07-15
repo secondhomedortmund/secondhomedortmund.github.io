@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/besichtigen", {data:[{}],fetch:{},mutations:void 0});
